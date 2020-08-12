@@ -10,11 +10,20 @@ Confira algumas dicas antes que você dê o primeiro passo na sua jornada:
 3. Não copie código (digitar é mais eficiente para o aprendizado do que Ctrl + C e Ctrl + V);
 4. Não perca demasiado tempo em um desafio só (ficar andando em círculos não vai te ensinar nada).
 
+Para localizar os exercícios com maior facilidade, utilize o índice abaixo:
+
+| Nível | Categoria | Exercício |
+|-------|-----------|-----------|
+|[Básico](#básico) |[Mensagens](mensagens)  |[ex001](#user-content-bas-msg-001)|
+|[Básico](#básico) |[Mensagens](mensagens)  |[ex002](#user-content-bas-msg-002)|
+
+
 ## Básico
 ### Mensagens
-1. Desenvolva um programa que apresente na tela a seguinte mensagem: **Hello World**
+<a id="bas-msg-001" />1. Desenvolva um programa que apresente na tela a seguinte mensagem: **Hello World**
 
-- [Solução proposta](https://github.com/rmveiga/exercicios_python/blob/master/basico/ex001/main.py)
+- [Solução proposta](https://github.com/rmveiga/exercicios_python/blob/master/basico/mensagens/ex001/main.py)
 
-2. Desenvolva um programa que pergunte o seu nome e, ao teclar Enter, apresente uma saudação personalizada
+<a id="bas-msg-002" />2. Desenvolva um programa que pergunte o seu nome e, ao teclar Enter, apresente uma saudação personalizada
 
+- [Solução proposta](https://github.com/rmveiga/exercicios_python/blob/master/basico/mensagens/ex002/main.py)
