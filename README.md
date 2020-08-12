@@ -10,4 +10,6 @@ Confira algumas dicas antes que você dê o primeiro passo na sua jornada:
 3. Não copie código (digitar é mais eficiente para o aprendizado do que Ctrl + C e Ctrl + V);
 4. Não perca demasiado tempo em um desafio só (ficar andando em círculos não vai te ensinar nada).
 
+## Básico
+1. Desenvolva um programa que apresente na tela a seguinte mensagem: Hello World
 
