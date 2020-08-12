@@ -32,7 +32,9 @@ Para localizar os exercícios com maior facilidade, utilize o índice abaixo:
 ### Números
 <a id="bas-num-001" />1. Desenvolva um programa que leia um número inteiro qualquer e que apresete ao usuário o número informado, seguido do seu antecessor e do seu sucessor
 
-- [Solução proposta](https://github.com/rmveiga/exercicios_python/blob/master/basico/mensagens/ex003/main.py)
+- [Solução proposta](https://github.com/rmveiga/exercicios_python/blob/master/basico/numeros/ex001/main.py)
 
 <a id="bas-num-002" />2. Desenvolva um programa que leia um número inteiro qualquer e que apresente o número informado com duas casas decimais
+
+- [Solução proposta](https://github.com/rmveiga/exercicios_python/blob/master/basico/numeros/ex002/main.py)
 
