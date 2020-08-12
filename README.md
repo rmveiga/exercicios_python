@@ -31,7 +31,7 @@ Para localizar os exercícios com maior facilidade, utilize o índice abaixo:
 [Solução proposta 2](https://github.com/rmveiga/exercicios_python/blob/master/basico/functions/ex001/main2.py)
 
 ### Listas
-<a id="bas-lst-001" />1. Desenvolva um programa que armazene quatro notas em uma lista e que apresente: a média final, a maior nota e a menor nota
+<a id="bas-lst-001" />1. Desenvolva um programa que armazene quatro notas em uma lista e que apresente: a média final, a maior nota e a menor nota<br>
 [Solução proposta](https://github.com/rmveiga/exercicios_python/blob/master/basico/listas/ex001/main.py)
 
 ### Mensagens
