@@ -14,7 +14,8 @@ Confira algumas dicas antes que você dê o primeiro passo na sua jornada:
 ### Mensagens
 1. Desenvolva um programa que apresente na tela a seguinte mensagem: **Hello World**
 
-- [Solução proposta](https://github.com/rmveiga/exercicios_python/blob/master/basico/ex001/main.py)
+- [Solução proposta](https://github.com/rmveiga/exercicios_python/blob/master/basico/mensagens/ex001/main.py)
 
 2. Desenvolva um programa que pergunte o seu nome e, ao teclar Enter, apresente uma saudação personalizada
 
+- [Solução proposta](https://github.com/rmveiga/exercicios_python/blob/master/basico/mensagens/ex002/main.py)
