@@ -1,7 +1,7 @@
 # Exercícios Python
 Este repositório tem como objetivo reunir alguns exercícios para os interessados em estudar e reforçar seus conhecimentos na linguagem Python. Todos os exercícios contam com um enunciado e com uma solução proposta, porém cada pessoa pode implementar a solução da maneira que achar mais interessante.
 
-Os exercícios foram divididos em dus categorias: **básico** e **avançado**. Mesmo que o seu nível de conhecimento na linguagem seja bem raso, ainda assim você encontrará desafios que seja capaz de concluir.
+Os exercícios foram divididos em dois níveis: **básico** e **avançado**. Mesmo que o seu nível de conhecimento na linguagem seja bem raso, ainda assim você encontrará desafios que seja capaz de concluir. Dentro de cada nível, existem diversas categorias de exercícios para você praticar seus conhecimentos.
 
 ## Antes de começar
 Confira algumas dicas antes que você dê o primeiro passo na sua jornada:
