@@ -50,3 +50,7 @@ Para localizar os exercícios com maior facilidade, utilize o índice abaixo:
 
 - [Solução proposta](https://github.com/rmveiga/exercicios_python/blob/master/basico/numeros/ex003/main.py)
 
+<a id="bas-num-004" />4. Desenvolva um programa que leia um número inteiro qualquer e que informe se este número é par ou impar
+
+- [Solução proposta](https://github.com/rmveiga/exercicios_python/blob/master/basico/numeros/ex004/main.py)
+
