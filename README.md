@@ -14,7 +14,7 @@ Para localizar os exercícios com maior facilidade, utilize o índice abaixo:
 
 | Nível | Categoria | Exercício |
 |-------|-----------|-----------|
-|Básico |Mensagens  |[ex001](#user-content-bas-msg-001)|
+|[Básico](#básico) |[Mensagens](mensagens)  |[ex001](#user-content-bas-msg-001)|
 
 
 ## Básico
@@ -23,6 +23,6 @@ Para localizar os exercícios com maior facilidade, utilize o índice abaixo:
 
 - [Solução proposta](https://github.com/rmveiga/exercicios_python/blob/master/basico/mensagens/ex001/main.py)
 
-2. Desenvolva um programa que pergunte o seu nome e, ao teclar Enter, apresente uma saudação personalizada
+<a id="bas-msg-002" />2. Desenvolva um programa que pergunte o seu nome e, ao teclar Enter, apresente uma saudação personalizada
 
 - [Solução proposta](https://github.com/rmveiga/exercicios_python/blob/master/basico/mensagens/ex002/main.py)
