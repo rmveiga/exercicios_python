@@ -14,6 +14,7 @@ Para localizar os exercícios com maior facilidade, utilize o índice abaixo:
 
 | Nível | Categoria | Exercício |
 |-------|-----------|-----------|
+|[Básico](#básico) |[Listas](#listas)  |[ex001](#user-content-bas-lst-001)|
 |[Básico](#básico) |[Mensagens](#mensagens)  |[ex001](#user-content-bas-msg-001)|
 |[Básico](#básico) |[Mensagens](#mensagens)  |[ex002](#user-content-bas-msg-002)|
 |[Básico](#básico) |[Números](#números)  |[ex001](#user-content-bas-num-001)|
@@ -22,6 +23,11 @@ Para localizar os exercícios com maior facilidade, utilize o índice abaixo:
 
 
 ## Básico
+### Listas
+<a id="bas-lst-001" />1. Desenvolva um programa que armazene quatro notas em uma lista e que apresente: a média final, a maior nota e a menor nota
+
+- [Solução proposta](https://github.com/rmveiga/exercicios_python/blob/master/basico/listas/ex001/main.py)
+
 ### Mensagens
 <a id="bas-msg-001" />1. Desenvolva um programa que apresente na tela a seguinte mensagem: **Hello World**
 
