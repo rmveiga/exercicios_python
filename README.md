@@ -14,13 +14,20 @@ Para localizar os exercícios com maior facilidade, utilize o índice abaixo:
 
 | Nível | Categoria | Exercício |
 |-------|-----------|-----------|
+|[Básico](#básico) |[Listas](#listas)  |[ex001](#user-content-bas-lst-001)|
 |[Básico](#básico) |[Mensagens](#mensagens)  |[ex001](#user-content-bas-msg-001)|
 |[Básico](#básico) |[Mensagens](#mensagens)  |[ex002](#user-content-bas-msg-002)|
 |[Básico](#básico) |[Números](#números)  |[ex001](#user-content-bas-num-001)|
 |[Básico](#básico) |[Números](#números)  |[ex002](#user-content-bas-num-002)|
+|[Básico](#básico) |[Números](#números)  |[ex003](#user-content-bas-num-003)|
 
 
 ## Básico
+### Listas
+<a id="bas-lst-001" />1. Desenvolva um programa que armazene quatro notas em uma lista e que apresente: a média final, a maior nota e a menor nota
+
+- [Solução proposta](https://github.com/rmveiga/exercicios_python/blob/master/basico/listas/ex001/main.py)
+
 ### Mensagens
 <a id="bas-msg-001" />1. Desenvolva um programa que apresente na tela a seguinte mensagem: **Hello World**
 
@@ -31,11 +38,15 @@ Para localizar os exercícios com maior facilidade, utilize o índice abaixo:
 - [Solução proposta](https://github.com/rmveiga/exercicios_python/blob/master/basico/mensagens/ex002/main.py)
 
 ### Números
-<a id="bas-num-001" />1. Desenvolva um programa que leia um número inteiro qualquer e que apresete ao usuário o número informado, seguido do seu antecessor e do seu sucessor
+<a id="bas-num-001" />1. Desenvolva um programa que leia um número inteiro qualquer e que apresete o número informado, seguido do seu antecessor e do seu sucessor
 
 - [Solução proposta](https://github.com/rmveiga/exercicios_python/blob/master/basico/numeros/ex001/main.py)
 
 <a id="bas-num-002" />2. Desenvolva um programa que leia um número inteiro qualquer e que apresente o número informado com duas casas decimais
 
 - [Solução proposta](https://github.com/rmveiga/exercicios_python/blob/master/basico/numeros/ex002/main.py)
+
+<a id="bas-num-003" />3. Desenvolva um programa que leia quatro notas e que apresente a média final
+
+- [Solução proposta](https://github.com/rmveiga/exercicios_python/blob/master/basico/numeros/ex003/main.py)
 
