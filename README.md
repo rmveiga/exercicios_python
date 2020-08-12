@@ -20,6 +20,7 @@ Para localizar os exercícios com maior facilidade, utilize o índice abaixo:
 |[Básico](#básico) |[Números](#números)  |[ex001](#user-content-bas-num-001)|
 |[Básico](#básico) |[Números](#números)  |[ex002](#user-content-bas-num-002)|
 |[Básico](#básico) |[Números](#números)  |[ex003](#user-content-bas-num-003)|
+|[Básico](#básico) |[Números](#números)  |[ex004](#user-content-bas-num-004)|
 
 
 ## Básico
