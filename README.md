@@ -14,7 +14,7 @@ Para localizar os exercícios com maior facilidade, utilize o índice abaixo:
 
 | Nível | Categoria | Exercício |
 |-------|-----------|-----------|
-|Básico |Mensagens  |ex001      |
+|Básico |Mensagens  |[ex001](#user-content-bas-msg-001)|
 
 
 ## Básico
