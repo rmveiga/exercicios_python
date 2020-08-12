@@ -16,6 +16,7 @@ Para localizar os exercícios com maior facilidade, utilize o índice abaixo:
 |-------|-----------|-----------|
 |[Básico](#básico) |[Mensagens](mensagens)  |[ex001](#user-content-bas-msg-001)|
 |[Básico](#básico) |[Mensagens](mensagens)  |[ex002](#user-content-bas-msg-002)|
+|[Básico](#básico) |[Mensagens](mensagens)  |[ex003](#user-content-bas-msg-003)|
 
 
 ## Básico
@@ -27,3 +28,7 @@ Para localizar os exercícios com maior facilidade, utilize o índice abaixo:
 <a id="bas-msg-002" />2. Desenvolva um programa que pergunte o seu nome e, ao teclar Enter, apresente uma saudação personalizada
 
 - [Solução proposta](https://github.com/rmveiga/exercicios_python/blob/master/basico/mensagens/ex002/main.py)
+
+<a id="bas-msg-003" />3. Desenvolva um programa que leia um número inteiro e que apresete ao usuário o número informado, seguido do seu antecessor e do seu sucessor
+
+- [Solução proposta](https://github.com/rmveiga/exercicios_python/blob/master/basico/mensagens/ex003/main.py)
