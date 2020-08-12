@@ -11,5 +11,5 @@ Confira algumas dicas antes que você dê o primeiro passo na sua jornada:
 4. Não perca demasiado tempo em um desafio só (ficar andando em círculos não vai te ensinar nada).
 
 ## Básico
-1. Desenvolva um programa que apresente na tela a seguinte mensagem: Hello World
+1. Desenvolva um programa que apresente na tela a seguinte mensagem: **Hello World**
 
