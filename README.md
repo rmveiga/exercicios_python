@@ -17,7 +17,7 @@ Para localizar os exercícios com maior facilidade, utilize o índice abaixo:
 |[Básico](#básico) |[Mensagens](#mensagens)  |[ex001](#user-content-bas-msg-001)|
 |[Básico](#básico) |[Mensagens](#mensagens)  |[ex002](#user-content-bas-msg-002)|
 |[Básico](#básico) |[Números](#números)  |[ex001](#user-content-bas-num-001)|
-|[Básico](#básico) |[Números](#números)  |[ex001](#user-content-bas-num-002)|
+|[Básico](#básico) |[Números](#números)  |[ex002](#user-content-bas-num-002)|
 
 
 ## Básico
