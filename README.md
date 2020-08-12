@@ -16,7 +16,7 @@ Para localizar os exercícios com maior facilidade, utilize o índice abaixo:
 |-------|-----------|-----------|
 |[Básico](#básico) |[Mensagens](#mensagens)  |[ex001](#user-content-bas-msg-001)|
 |[Básico](#básico) |[Mensagens](#mensagens)  |[ex002](#user-content-bas-msg-002)|
-|[Básico](#básico) |[Mensagens](#mensagens)  |[ex003](#user-content-bas-msg-003)|
+|[Básico](#básico) |[Números](#números)  |[ex001](#user-content-bas-num-001)|
 
 
 ## Básico
@@ -29,10 +29,10 @@ Para localizar os exercícios com maior facilidade, utilize o índice abaixo:
 
 - [Solução proposta](https://github.com/rmveiga/exercicios_python/blob/master/basico/mensagens/ex002/main.py)
 
-<a id="bas-msg-003" />3. Desenvolva um programa que leia um número inteiro qualquer e que apresete ao usuário o número informado, seguido do seu antecessor e do seu sucessor
+### Números
+<a id="bas-num-001" />1. Desenvolva um programa que leia um número inteiro qualquer e que apresete ao usuário o número informado, seguido do seu antecessor e do seu sucessor
 
 - [Solução proposta](https://github.com/rmveiga/exercicios_python/blob/master/basico/mensagens/ex003/main.py)
 
-### Números
-<a id="bas-num-001" />1. Desenvolva um programa que leia um número inteiro qualquer e que apresente o número informado com duas casas decimais
+<a id="bas-num-002" />2. Desenvolva um programa que leia um número inteiro qualquer e que apresente o número informado com duas casas decimais
 
