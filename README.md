@@ -19,7 +19,7 @@ Para localizar os exercícios com maior facilidade, utilize o índice abaixo:
 
 ## Básico
 ### Mensagens
-<#bas-msg-001>1. Desenvolva um programa que apresente na tela a seguinte mensagem: **Hello World**
+<a id="bas-msg-001" />1. Desenvolva um programa que apresente na tela a seguinte mensagem: **Hello World**
 
 - [Solução proposta](https://github.com/rmveiga/exercicios_python/blob/master/basico/mensagens/ex001/main.py)
 
