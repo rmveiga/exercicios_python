@@ -36,6 +36,7 @@ Para localizar os exercícios com maior facilidade, utilize o índice abaixo:
 **OBS.: O design da tela pode ser implementado livremente**<br>
 - **(PLUS)**: Implemente um sistema de pontuação com o seguinte comportamento: se o usuário adivinhar o número na primeira tentativa, receberá a pontuação máxima (ex. 100 pontos); se o usuário adivinhar o número na última tentativa, receberá a pontuação mínima (ex. 10 pontos); se o usuário não acertar o número, não receberá nenhum ponto.<br>
 **OBS.: A pontuação intermediária pode ser implementada livremente**<br>
+- **(PLUS)**: Implemente um controle de erros. Caso o jogador digite um número fora da faixa permitida ou caracteres não numéricos, o sistema deve notificar o jogador e solicitar o input correto.<br>
 
 [Solução proposta](https://github.com/rmveiga/exercicios_python/blob/master/basico/jogos/ex001/main.py)<br>
 
