@@ -53,7 +53,6 @@ def calcula_pontuacao(rodada, tentativas):
 
 
 mensagem_tela(MENSAGENS.get('DEFAULT').get('SAUDACAO'))
-print(numero_computador)
 while rodada < TENTATIVAS:
     print(f'Rodada {rodada}/{TOTAL_RODADAS}')
     numero_jogador = recebe_numero_jogador(MENSAGENS.get('DEFAULT').get('INPUT_JOGADOR'))
