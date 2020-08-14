@@ -5,10 +5,10 @@ Os exercícios foram divididos em dois níveis: **básico** e **avançado**. Mes
 
 ## Antes de começar
 Confira algumas dicas antes que você dê o primeiro passo na sua jornada:
-1. Leia atentamente o enunciado (a solução pode estar nele);
-2. Não olhe a solução antes de tentar (exercite a sua lógica e criatividade);
-3. Não copie código (digitar é mais eficiente para o aprendizado do que Ctrl + C e Ctrl + V);
-4. Não perca demasiado tempo em um desafio só (ficar andando em círculos não vai te ensinar nada).
+- Leia atentamente o enunciado (a solução pode estar nele);
+- Não olhe a solução antes de tentar (exercite a sua lógica e criatividade);
+- Não copie código (digitar é mais eficiente para o aprendizado do que Ctrl + C e Ctrl + V);
+- Não perca demasiado tempo em um desafio só (ficar andando em círculos não vai te ensinar nada).
 
 Para localizar os exercícios com maior facilidade, utilize o índice abaixo:
 
