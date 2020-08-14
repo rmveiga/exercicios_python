@@ -23,6 +23,7 @@ Para localizar os exercícios com maior facilidade, utilize o índice abaixo:
 |[Básico](#básico) |[Números](#números)  |[ex002](#user-content-bas-num-002)|
 |[Básico](#básico) |[Números](#números)  |[ex003](#user-content-bas-num-003)|
 |[Básico](#básico) |[Números](#números)  |[ex004](#user-content-bas-num-004)|
+|[Básico](#básico) |[Strings](#strings)  |[ex001](#user-content-bas-str-001)|
 
 
 ## Básico
@@ -63,3 +64,7 @@ Para localizar os exercícios com maior facilidade, utilize o índice abaixo:
 
 <a id="bas-num-004" />4. Desenvolva um programa que leia um número inteiro qualquer e que informe se este número é par ou impar<br>
 [Solução proposta](https://github.com/rmveiga/exercicios_python/blob/master/basico/numeros/ex004/main.py)
+
+### Strings
+<a id="bas-str-001" />1. Desenvolva um programa que altere em tempo de execução a palavra **Java** pela palavra **Python** na frase **Exercícios de Java**<br>
+[Solução proposta](https://github.com/rmveiga/exercicios_python/blob/master/basico/strings/ex001/main.py)
