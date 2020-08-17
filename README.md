@@ -26,6 +26,7 @@ Para localizar os exercícios com maior facilidade, utilize o índice abaixo:
 |[Básico](#básico) |[Strings](#strings)  |[ex001](#user-content-bas-str-001)|
 |[Avançado](#avançado) |[Lambda](#lambda)  |[ex001](#user-content-avd-lbd-001)|
 |[Avançado](#avançado) |[Lambda](#lambda)  |[ex002](#user-content-avd-lbd-002)|
+|[Avançado](#avançado) |[Lambda](#lambda)  |[ex003](#user-content-avd-lbd-003)|
 
 
 ## Básico
@@ -78,3 +79,6 @@ Para localizar os exercícios com maior facilidade, utilize o índice abaixo:
 
 <a id="avd-lbd-002" />2. Desenvolva um programa que leia um número qualquer e informe se ele é par ou ímpar<br>
 [Solução proposta](https://github.com/rmveiga/exercicios_python/blob/master/avancado/lambda/ex002/main.py)<br>
+
+<a id="avd-lbd-003" />3. Desenvolva uma calculadora rudimentar onde o usuário deve informar: qual operação ele deseja realizar, quais os valores para a realização do cálculo (apenas dois valores) e o resultado da operação<br>
+[Solução proposta](https://github.com/rmveiga/exercicios_python/blob/master/avancado/lambda/ex003/main.py)<br>
