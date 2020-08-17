@@ -25,6 +25,7 @@ Para localizar os exercícios com maior facilidade, utilize o índice abaixo:
 |[Básico](#básico) |[Números](#números)  |[ex004](#user-content-bas-num-004)|
 |[Básico](#básico) |[Strings](#strings)  |[ex001](#user-content-bas-str-001)|
 |[Avançado](#avançado) |[Lambda](#lambda)  |[ex001](#user-content-avd-lbd-001)|
+|[Avançado](#avançado) |[Lambda](#lambda)  |[ex002](#user-content-avd-lbd-002)|
 
 
 ## Básico
@@ -74,3 +75,6 @@ Para localizar os exercícios com maior facilidade, utilize o índice abaixo:
 ### Lambda
 <a id="avd-lbd-001" />1. Desenvolva um programa que leia o seu nome completo e que apresente somente o seu primeiro e último nomes<br>
 [Solução proposta](https://github.com/rmveiga/exercicios_python/blob/master/avancado/lambda/ex001/main.py)<br>
+
+<a id="avd-lbd-002" />2. Desenvolva um programa que leia um número qualquer e informe se ele é par ou ímpar<br>
+[Solução proposta](https://github.com/rmveiga/exercicios_python/blob/master/avancado/lambda/ex002/main.py)<br>
