@@ -24,6 +24,7 @@ Para localizar os exercícios com maior facilidade, utilize o índice abaixo:
 |[Básico](#básico) |[Números](#números)  |[ex003](#user-content-bas-num-003)|
 |[Básico](#básico) |[Números](#números)  |[ex004](#user-content-bas-num-004)|
 |[Básico](#básico) |[Strings](#strings)  |[ex001](#user-content-bas-str-001)|
+|[Avançado](#avançado) |[Lambda](#lambda)  |[ex001](#user-content-avd-lbd-001)|
 
 
 ## Básico
@@ -68,3 +69,8 @@ Para localizar os exercícios com maior facilidade, utilize o índice abaixo:
 ### Strings
 <a id="bas-str-001" />1. Desenvolva um programa que altere em tempo de execução a palavra **Java** pela palavra **Python** na frase **Exercícios de Java**<br>
 [Solução proposta](https://github.com/rmveiga/exercicios_python/blob/master/basico/strings/ex001/main.py)
+
+## Avançado
+### Lambda
+<a id="avd-lbd-001" />1. Desenvolva um programa que leia o seu nome completo e que apresente somente o seu primeiro e último nomes<br>
+[Solução proposta](https://github.com/rmveiga/exercicios_python/blob/master/avancado/lambda/ex001/main.py)<br>
