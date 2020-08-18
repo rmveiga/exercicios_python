@@ -27,6 +27,7 @@ Para localizar os exercícios com maior facilidade, utilize o índice abaixo:
 |[Avançado](#avançado) |[Lambda](#lambda)  |[ex001](#user-content-avd-lbd-001)|
 |[Avançado](#avançado) |[Lambda](#lambda)  |[ex002](#user-content-avd-lbd-002)|
 |[Avançado](#avançado) |[Lambda](#lambda)  |[ex003](#user-content-avd-lbd-003)|
+|[Avançado](#avançado) |[Map](#lambda)  |[ex001](#user-content-avd-map-001)|
 
 
 ## Básico
@@ -82,3 +83,7 @@ Para localizar os exercícios com maior facilidade, utilize o índice abaixo:
 
 <a id="avd-lbd-003" />3. Desenvolva uma calculadora rudimentar onde o usuário deve informar: qual operação ele deseja realizar, quais os valores para a realização do cálculo (apenas dois valores) e o resultado da operação<br>
 [Solução proposta](https://github.com/rmveiga/exercicios_python/blob/master/avancado/lambda/ex003/main.py)<br>
+
+### Map
+<a id="avd-map-001" />1. Desenvolva um programa que converta todas as temperaturas desta lista em Celsius ([22.5, 40, 13, 29, 34]) para Fahrenheit<br>
+[Solução proposta](https://github.com/rmveiga/exercicios_python/blob/master/avancado/map/ex001/main.py)<br>
