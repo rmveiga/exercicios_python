@@ -24,6 +24,7 @@ Para localizar os exercícios com maior facilidade, utilize o índice abaixo:
   - [Lambda](#lambda)
   - [Map](#map)
 - [Projetos](#projetos)
+  - [Jogos](#jogos)
 
 
 ## Básico
@@ -31,6 +32,8 @@ Para localizar os exercícios com maior facilidade, utilize o índice abaixo:
 1. Desenvolva um programa que tenha uma função que verifique se um número inteiro qualquer é par ou impar<br>
 [Solução proposta 1](https://github.com/rmveiga/exercicios_python/blob/master/basico/functions/ex001/main.py)<br>
 [Solução proposta 2](https://github.com/rmveiga/exercicios_python/blob/master/basico/functions/ex001/main2.py)
+
+🔼[]()
 
 ### Listas
 1. Desenvolva um programa que armazene quatro notas em uma lista e que apresente: a média final, a maior nota e a menor nota<br>
