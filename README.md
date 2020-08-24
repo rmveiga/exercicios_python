@@ -98,6 +98,6 @@ Confira algumas dicas antes que você dê o primeiro passo na sua jornada:
 - **(PLUS)**: Implemente um controle de erros. Caso o jogador digite um número fora da faixa permitida ou caracteres não numéricos, o sistema deve notificar o jogador e solicitar o input correto.<br>
 - **(PLUS)**: Implemente a opção de o usuário iniciar uma nova partida. Ao finalizar uma rodada, após o resultado final, o jogo deve perguntar se o jogador quer iniciar uma nova partida e, em caso negativo, encerrar a aplicação.<br>
 
-[Solução proposta](https://github.com/rmveiga/exercicios_python/blob/master/basico/jogos/ex001/main.py)<br>
+[Solução proposta](https://github.com/rmveiga/exercicios_python/blob/master/projetos/jogos/ex001/main.py)<br>
 
 🔼[Voltar ao índice](#índice)🔼
