@@ -32,11 +32,13 @@ Confira algumas dicas antes que você dê o primeiro passo na sua jornada:
 [Solução proposta 1](https://github.com/rmveiga/exercicios_python/blob/master/basico/functions/ex001/main.py)<br>
 [Solução proposta 2](https://github.com/rmveiga/exercicios_python/blob/master/basico/functions/ex001/main2.py)
 
-🔼[Voltar ao índice](#índice)
+🔼[Voltar ao índice](#índice)🔼
 
 ### Listas
 1. Desenvolva um programa que armazene quatro notas em uma lista e que apresente: a média final, a maior nota e a menor nota<br>
 [Solução proposta](https://github.com/rmveiga/exercicios_python/blob/master/basico/listas/ex001/main.py)
+
+🔼[Voltar ao índice](#índice)🔼
 
 ### Mensagens
 1. Desenvolva um programa que apresente na tela a seguinte mensagem: **Hello World**<br>
@@ -44,6 +46,8 @@ Confira algumas dicas antes que você dê o primeiro passo na sua jornada:
 
 2. Desenvolva um programa que pergunte o seu nome e, ao teclar Enter, apresente uma saudação personalizada<br>
 [Solução proposta](https://github.com/rmveiga/exercicios_python/blob/master/basico/mensagens/ex002/main.py)
+
+🔼[Voltar ao índice](#índice)🔼
 
 ### Números
 1. Desenvolva um programa que leia um número inteiro qualquer e que apresete o número informado, seguido do seu antecessor e do seu sucessor<br>
@@ -58,9 +62,13 @@ Confira algumas dicas antes que você dê o primeiro passo na sua jornada:
 4. Desenvolva um programa que leia um número inteiro qualquer e que informe se este número é par ou impar<br>
 [Solução proposta](https://github.com/rmveiga/exercicios_python/blob/master/basico/numeros/ex004/main.py)
 
+🔼[Voltar ao índice](#índice)🔼
+
 ### Strings
 1. Desenvolva um programa que altere em tempo de execução a palavra **Java** pela palavra **Python** na frase **Exercícios de Java**<br>
 [Solução proposta](https://github.com/rmveiga/exercicios_python/blob/master/basico/strings/ex001/main.py)
+
+🔼[Voltar ao índice](#índice)🔼
 
 ## Avançado
 ### Lambda
@@ -73,9 +81,13 @@ Confira algumas dicas antes que você dê o primeiro passo na sua jornada:
 3. Desenvolva uma calculadora rudimentar onde o usuário deve informar: qual operação ele deseja realizar, quais os valores para a realização do cálculo (apenas dois valores) e o resultado da operação<br>
 [Solução proposta](https://github.com/rmveiga/exercicios_python/blob/master/avancado/lambda/ex003/main.py)<br>
 
+🔼[Voltar ao índice](#índice)🔼
+
 ### Map
 1. Desenvolva um programa que converta todas as temperaturas desta lista em Celsius ([22.5, 40, 13, 29, 34]) para Fahrenheit<br>
 [Solução proposta](https://github.com/rmveiga/exercicios_python/blob/master/avancado/map/ex001/main.py)<br>
+
+🔼[Voltar ao índice](#índice)🔼
 
 ## Projetos
 
@@ -87,3 +99,5 @@ Confira algumas dicas antes que você dê o primeiro passo na sua jornada:
 - **(PLUS)**: Implemente um controle de erros. Caso o jogador digite um número fora da faixa permitida ou caracteres não numéricos, o sistema deve notificar o jogador e solicitar o input correto.<br>
 
 [Solução proposta](https://github.com/rmveiga/exercicios_python/blob/master/basico/jogos/ex001/main.py)<br>
+
+🔼[Voltar ao índice](#índice)🔼
