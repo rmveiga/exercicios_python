@@ -12,8 +12,7 @@ Confira algumas dicas antes que você dê o primeiro passo na sua jornada:
 - Não copie código (digitar é mais eficiente para o aprendizado do que Ctrl + C e Ctrl + V);
 - Não perca demasiado tempo em um desafio só (ficar andando em círculos não vai te ensinar nada).
 
-Para localizar os exercícios com maior facilidade, utilize o índice abaixo:
-
+### Índice
 - [Básico](#básico)<br>
   - [Funções](#funções)
   - [Listas](#listas)
@@ -33,7 +32,7 @@ Para localizar os exercícios com maior facilidade, utilize o índice abaixo:
 [Solução proposta 1](https://github.com/rmveiga/exercicios_python/blob/master/basico/functions/ex001/main.py)<br>
 [Solução proposta 2](https://github.com/rmveiga/exercicios_python/blob/master/basico/functions/ex001/main2.py)
 
-🔼[]()
+🔼[Voltar ao índice](#índice)
 
 ### Listas
 1. Desenvolva um programa que armazene quatro notas em uma lista e que apresente: a média final, a maior nota e a menor nota<br>
