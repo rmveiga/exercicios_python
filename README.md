@@ -88,7 +88,7 @@ Confira algumas dicas antes que você dê o primeiro passo na sua jornada:
 1. Desenvolva um programa que converta todas as temperaturas desta lista em Celsius ([22.5, 40, 13, 29, 34]) para Fahrenheit<br>
 [Solução proposta](https://github.com/rmveiga/exercicios_python/blob/master/avancado/map/ex001/main.py)<br>
 
-2. Desenvolva um programa que a soma dos valores pares dos valores ímpares da sequência ([21, 5, 34, 8, 16, 7, 3])<br>
+2. Desenvolva um programa que apresente a soma dos valores pares e dos valores ímpares da sequência ([21, 5, 34, 8, 16, 7, 3])<br>
 [Solução proposta](https://github.com/rmveiga/exercicios_python/blob/master/avancado/map/ex002/main.py)<br>
 
 🔼[Voltar ao índice](#índice)🔼
