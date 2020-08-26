@@ -13,7 +13,7 @@ Confira algumas dicas antes que você dê o primeiro passo na sua jornada:
 - Não perca demasiado tempo em um desafio só (ficar andando em círculos não vai te ensinar nada).
 
 ### Índice
-- [Básico](#básico)<br>
+- [Básico](#básico)
   - [Funções](#funções)
   - [Listas](#listas)
   - [Mensagens](#mensagens)
@@ -22,6 +22,7 @@ Confira algumas dicas antes que você dê o primeiro passo na sua jornada:
 - [Avançado](#avançado)
   - [Lambda](#lambda)
   - [Map](#map)
+  - [Reduce](#reduce)
 - [Projetos](#projetos)
   - [Jogos](#jogos)
 
@@ -86,6 +87,12 @@ Confira algumas dicas antes que você dê o primeiro passo na sua jornada:
 ### Map
 1. Desenvolva um programa que converta todas as temperaturas desta lista em Celsius ([22.5, 40, 13, 29, 34]) para Fahrenheit<br>
 [Solução proposta](https://github.com/rmveiga/exercicios_python/blob/master/avancado/map/ex001/main.py)<br>
+
+🔼[Voltar ao índice](#índice)🔼
+
+### Reduce
+1. Desenvolva um programa que apresente o maior e o menor valores da sequência ([54, 10, 29, 87, 7, 64])<br>
+[Solução proposta](https://github.com/rmveiga/exercicios_python/blob/master/avancado/reduce/ex001/main.py)<br>
 
 🔼[Voltar ao índice](#índice)🔼
 
