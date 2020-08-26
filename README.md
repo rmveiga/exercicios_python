@@ -13,7 +13,7 @@ Confira algumas dicas antes que você dê o primeiro passo na sua jornada:
 - Não perca demasiado tempo em um desafio só (ficar andando em círculos não vai te ensinar nada).
 
 ### Índice
-- [Básico](#básico)<br>
+- [Básico](#básico)
   - [Funções](#funções)
   - [Listas](#listas)
   - [Mensagens](#mensagens)
@@ -22,6 +22,7 @@ Confira algumas dicas antes que você dê o primeiro passo na sua jornada:
 - [Avançado](#avançado)
   - [Lambda](#lambda)
   - [Map](#map)
+  - [Reduce](#reduce)
 - [Projetos](#projetos)
   - [Jogos](#jogos)
 
@@ -89,6 +90,12 @@ Confira algumas dicas antes que você dê o primeiro passo na sua jornada:
 
 🔼[Voltar ao índice](#índice)🔼
 
+### Reduce
+1. Desenvolva um programa que apresente o maior e o menor valores da sequência ([54, 10, 29, 87, 7, 64])<br>
+[Solução proposta](https://github.com/rmveiga/exercicios_python/blob/master/avancado/reduce/ex001/main.py)<br>
+
+🔼[Voltar ao índice](#índice)🔼
+
 ## Projetos
 
 ### Jogos
@@ -98,6 +105,6 @@ Confira algumas dicas antes que você dê o primeiro passo na sua jornada:
 - **(PLUS)**: Implemente um controle de erros. Caso o jogador digite um número fora da faixa permitida ou caracteres não numéricos, o sistema deve notificar o jogador e solicitar o input correto.<br>
 - **(PLUS)**: Implemente a opção de o usuário iniciar uma nova partida. Ao finalizar uma rodada, após o resultado final, o jogo deve perguntar se o jogador quer iniciar uma nova partida e, em caso negativo, encerrar a aplicação.<br>
 
-[Solução proposta](https://github.com/rmveiga/exercicios_python/blob/master/basico/jogos/ex001/main.py)<br>
+[Solução proposta](https://github.com/rmveiga/exercicios_python/blob/master/projetos/jogos/ex001/main.py)<br>
 
 🔼[Voltar ao índice](#índice)🔼
