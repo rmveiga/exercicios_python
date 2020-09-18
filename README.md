@@ -14,6 +14,7 @@ Confira algumas dicas antes que você dê o primeiro passo na sua jornada:
 
 ### Índice
 - [Básico](#básico)
+  - [Dicionários](#dicionários)
   - [Funções](#funções)
   - [Listas](#listas)
   - [Mensagens](#mensagens)
@@ -28,6 +29,12 @@ Confira algumas dicas antes que você dê o primeiro passo na sua jornada:
 
 
 ## Básico
+### Dicionários
+1. Considere o seguinte dicionário: {'m1': {'m2': 'Olá Mundo'}}. Carregue e apresente a mensagem "Olá Mundo" contida no dicionário<br>
+[Solução proposta](https://github.com/rmveiga/exercicios_python/blob/master/basico/dicionarios/ex001/main.py)<br>
+
+🔼[Voltar ao índice](#índice)🔼
+
 ### Funções
 1. Desenvolva um programa que tenha uma função que verifique se um número inteiro qualquer é par ou impar<br>
 [Solução proposta 1](https://github.com/rmveiga/exercicios_python/blob/master/basico/functions/ex001/main.py)<br>
@@ -38,6 +45,9 @@ Confira algumas dicas antes que você dê o primeiro passo na sua jornada:
 ### Listas
 1. Desenvolva um programa que armazene quatro notas em uma lista e que apresente: a média final, a maior nota e a menor nota<br>
 [Solução proposta](https://github.com/rmveiga/exercicios_python/blob/master/basico/listas/ex001/main.py)
+
+2. Desenvolva um programa que armazene quatro notas em uma lista e que apresente a média final. Caso a média seja igual ou superior a 7, apresentar a mensagem "APROVADO", caso contrário, armazenar a nota da prova final e recalcular a média. Caso a nova média seja igual superior a 5, apresentar a mensagem "APROVADO", caso contrário, apresentar a mensagem "REPROVADO"<br>
+[Solução proposta](https://github.com/rmveiga/exercicios_python/blob/master/basico/listas/ex002/main.py)
 
 🔼[Voltar ao índice](#índice)🔼
 
