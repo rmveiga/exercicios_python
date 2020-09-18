@@ -14,6 +14,7 @@ Confira algumas dicas antes que você dê o primeiro passo na sua jornada:
 
 ### Índice
 - [Básico](#básico)
+  - [Dicionários](#dicionários)
   - [Funções](#funções)
   - [Listas](#listas)
   - [Mensagens](#mensagens)
@@ -28,6 +29,12 @@ Confira algumas dicas antes que você dê o primeiro passo na sua jornada:
 
 
 ## Básico
+### Dicionários
+1. Considere o seguinte dicionário: {'m1': {'m2': 'Olá Mundo'}}. Carregue e apresente a mensagem "Olá Mundo" contida no dicionário<br>
+[Solução proposta](https://github.com/rmveiga/exercicios_python/blob/master/basico/dicionarios/ex001/main.py)<br>
+
+🔼[Voltar ao índice](#índice)🔼
+
 ### Funções
 1. Desenvolva um programa que tenha uma função que verifique se um número inteiro qualquer é par ou impar<br>
 [Solução proposta 1](https://github.com/rmveiga/exercicios_python/blob/master/basico/functions/ex001/main.py)<br>
