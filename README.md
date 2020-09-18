@@ -34,6 +34,9 @@ Confira algumas dicas antes que você dê o primeiro passo na sua jornada:
 1. Carregue a data atual do computador e, com base na data atual, apresente a data de dois dias no futuro<br>
 [Solução proposta](https://github.com/rmveiga/exercicios_python/blob/master/basico/datas/ex001/main.py)<br>
 
+2. Carregue a data atual do computador e apresente somente a data<br>
+[Solução proposta](https://github.com/rmveiga/exercicios_python/blob/master/basico/datas/ex002/main.py)<br>
+
 🔼[Voltar ao índice](#índice)🔼
 
 ### Dicionários
