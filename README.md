@@ -39,6 +39,9 @@ Confira algumas dicas antes que você dê o primeiro passo na sua jornada:
 1. Desenvolva um programa que armazene quatro notas em uma lista e que apresente: a média final, a maior nota e a menor nota<br>
 [Solução proposta](https://github.com/rmveiga/exercicios_python/blob/master/basico/listas/ex001/main.py)
 
+2. Desenvolva um programa que armazene quatro notas em uma lista e que apresente a média final. Caso a média seja igual ou superior a 7, apresentar a mensagem "APROVADO", caso contrário, armazenar a nota da prova final e recalcular a média. Caso a nova média seja igual superior a 5, apresentar a mensagem "APROVADO", caso contrário, apresentar a mensagem "REPROVADO"<br>
+[Solução proposta](https://github.com/rmveiga/exercicios_python/blob/master/basico/listas/ex002/main.py)
+
 🔼[Voltar ao índice](#índice)🔼
 
 ### Mensagens
